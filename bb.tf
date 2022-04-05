@@ -1,3 +1,4 @@
+//This code is for adding ebs volume//
 variable "elb"{
 }
 resource aws_ebs_volume "ebs"{
